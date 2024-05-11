@@ -44,3 +44,8 @@ while True:
 
 ## SERVER
 ![image](https://github.com/JayaAbirami/2a_Stop_and_Wait_Protocol/assets/151487010/c89604b9-dd7b-4909-84fb-4f694bf832ca)
+
+ 
+## RESULT: 
+ 
+Thus, python program to perform stop and wait protocol was successfully executed.
